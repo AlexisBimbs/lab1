@@ -1,3 +1,6 @@
 Se crea este archivo desde main
 
+
 se modifica este archivo desde develop para crear un conflicto
+Se modifica este archivo directo desde main para provocar un conflicto
+
